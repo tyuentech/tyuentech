@@ -1,4 +1,4 @@
-## Hi there 👋
+ ## Hi there 👋
 
 <!--
 **tyuentech/tyuentech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Tyler, a recent CS graduate based in Chicago.
+
+My passion revolves around full stack development and data science. 
+
+I will be working on projects that interest myself and help me further my knowledge.
+
+---
